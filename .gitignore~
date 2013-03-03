@@ -1,5 +1,4 @@
 *.py[cod]
-infix_tabmodule.py
 
 # C extensions
 *.so
